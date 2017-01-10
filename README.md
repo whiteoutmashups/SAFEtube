@@ -1,7 +1,7 @@
 # SAFEtube
 Sample video player for SAFE Network
 
-Uses Video.JS in a contained way so that you can host and view your own videos on the SAFE Network.
+Uses <a href="http://www.videojs.com" target="_blank">Video.JS</a> in a contained way so that you can host and view your own videos on the SAFE Network.
 
 Currently limited to 25mb files. Hard MaidSafe-enforced limit, but may be lifted once vaults are ready!
 
