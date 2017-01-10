@@ -8,6 +8,7 @@ Currently limited to 25mb files. Hard MaidSafe-enforced limit, but may be lifted
 ToDo:
 - Learn how to upload files with safe-js and add ability for users to upload videos
 - create tool that automatically generates links & display functions for each uploaded video
+- FIX BUG THAT ALLOWS VIDEOS TO PLAY SIMULTANEOUSLY! a result of poor site design?
 - rework how display = "none" functions work, find a smarter way?
 
 Lets get video going with SAFE!
